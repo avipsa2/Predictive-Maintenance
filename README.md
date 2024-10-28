@@ -1,7 +1,7 @@
 ## Predictive Maintenance of Machines
 This project aims to develop a robust predictive maintenance solution by leveraging machine learning and data analytics to predict machine failures and maintenance requirements, minimizing downtime and operational costs. The project analyzes extensive industrial datasets, including telemetry, error logs, maintenance records, failure events, and machine metadata, to uncover patterns and insights crucial for building predictive maintenance models.
 
-Project Overview
+## Project Overview
 Predictive maintenance uses machine learning algorithms to forecast the likelihood of equipment failures and recommend preventive maintenance actions. This project encompasses the following key steps:
 
 Data Collection and Preprocessing: Multiple data sources, including telemetry readings (temperature, pressure, vibration), error logs, maintenance histories, and component metadata, are consolidated. Data cleaning, imputation, and normalization techniques are applied for consistency.
