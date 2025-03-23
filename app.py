@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 with open("model.pkl", "rb") as f:
     model = pickle.load(f)
 
