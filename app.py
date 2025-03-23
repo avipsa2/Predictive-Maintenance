@@ -2,9 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-import os
-model_path = os.path.abspath("new_model.pkl")
-model = pickle.load(open(model_path, "rb"))
+model = pickle.load(open("C:\Users\Asus\Predictive Maintenance\new_model.pkl", "rb"))
 
 
 st.title("Predictive Maintenance System")
