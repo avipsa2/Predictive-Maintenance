@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-model = pickle.load(open('Predictive-Maintenance/new_model.pkl', 'rb'))
+model = pickle.load(open('Predictive Maintenance/new_model.pkl', 'rb'))
 
 st.title("Predictive Maintenance System")
 
